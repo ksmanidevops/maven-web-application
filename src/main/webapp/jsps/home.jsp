@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KSMANI Jenkins,Tamil Nadu, India </h1>
+<h1 align="center">Welcome to KSMANI,Tamil Nadu, India </h1>
 <h1 align="center">  Linux - Sanity Saver or Linux - Freedom of Choice... ksmanitech55@gmail.com</h1> 
 <h1 align="center"> KSMANI- Linux, what else ? Think different, think Linux. think better, with Linux</h1>
 <hr>
