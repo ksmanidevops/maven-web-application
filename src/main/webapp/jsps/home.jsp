@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KSMANI Jenkins,Tamil Nadu, India </h1>
-<h1 align="center"> New Batch will be start in August 11th  at 7.30 PM IST - Contact 9980923226/9980923216 or devopstrainingblr@gmail.com</h1> 
+<h1 align="center">  Linux - Sanity Saver or Linux - Freedom of Choice... ksmanitech55@gmail.com</h1> 
 <h1 align="center"> KSMANI- Linux, what else ? Think different, think Linux. think better, with Linux</h1>
 <hr>
 <br>
